@@ -35,7 +35,7 @@
 
 <div align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/abhishekingle662/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-ingle/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
 
@@ -51,7 +51,7 @@
 
 
   <!-- Instagram -->
-  <a href="https://instagram.com/abhishek-ingle" target="_blank">
+  <a href="https://instagram.com/ingle_.abhishek._" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
   </a>
 
