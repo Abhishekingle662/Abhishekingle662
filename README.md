@@ -27,11 +27,6 @@
 
 ## 📊 GitHub Analytics  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekingle662&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekingle662&layout=compact&theme=radical&langs_count=8&hide_border=true" height="170"/>
-</div>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekingle662&theme=radical&hide_border=true" alt="streak graph"/>
 </p>
