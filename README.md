@@ -18,7 +18,7 @@
 
 - 🌑 Crafting [**Luna.ai**](https://www.lunaapp.space/): an AI-powered productivity + creativity companion  
 - 🎮 Leveling up with **Unreal Engine & Unity** experiments  
-- 🌐 My digital home: [**abhishekingle.us**](https://www.abhishekingle.us)  
+- 🌐 My digital home: [**abhishekingle.us**](https://www.abhishekingle.dev)  
 - 🧠 Tech sparks: `Next.js` · `AI/ML` · `DevOps` · `Full-stack creativity`  
 - 🎨 Offscreen: I sketch hyper-realistic portraits → [**Pixel & Pencil Gallery**](https://pixel-and-pencil-gallery.vercel.app/)  
 - 📫 Let’s connect → **abhishekingle662@gmail.com**  
