@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/14/87/e4/1487e4cdfa2dc8863e86073d92d97c5f.gif" height="220"/>
+</div>
 
 <!-- Animated mission-log typing effect -->
 <p align="center">
@@ -54,11 +57,3 @@
 
 ---
 
-<!-- Sci-fi poster footer wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:9b59b6,60:1e0035,100:0a0014&section=footer&animation=fadeIn" />
-</p>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/14/87/e4/1487e4cdfa2dc8863e86073d92d97c5f.gif" height="220"/>
-</div>
