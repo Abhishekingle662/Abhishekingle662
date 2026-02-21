@@ -34,50 +34,14 @@
 
 ---
 
-## 🚀 Current Projects
+## The projects I've been working on
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <a href="https://www.lunaapp.space/">
-        <img src="https://img.shields.io/badge/Luna.ai-AI%20Cosmos%20Companion-00d4ff?style=for-the-badge&logo=satellite&logoColor=white&labelColor=020024" /><br/>
-        <sub><b>Python · Next.js · AI/ML</b></sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/Abhishekingle662/videoAlarm">
-        <img src="https://img.shields.io/badge/videoAlarm-Flutter%20Mobile%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0a0a0a" /><br/>
-        <sub><b>Flutter · Dart</b></sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/Abhishekingle662/NoteNest">
-        <img src="https://img.shields.io/badge/NoteNest-Smart%20Notes%20App-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a1a" /><br/>
-        <sub><b>JavaScript · Node.js</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/Abhishekingle662/coder-helper">
-        <img src="https://img.shields.io/badge/coder--helper-AI%20DevTools-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0a0a" /><br/>
-        <sub><b>TypeScript · AI</b></sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/Abhishekingle662/adversarial_attack">
-        <img src="https://img.shields.io/badge/adversarial__attack-ML%20Security-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0a0a0a" /><br/>
-        <sub><b>Python · ML · Jupyter</b></sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://pixel-and-pencil-gallery.vercel.app/">
-        <img src="https://img.shields.io/badge/Pixel%20%26%20Pencil-Art%20Gallery-9C27B0?style=for-the-badge&logo=paintbrush&logoColor=white&labelColor=0a0a0a" /><br/>
-        <sub><b>SCSS · Art</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+1. **[Luna.ai](https://www.lunaapp.space/)** — An AI-powered cosmos & productivity companion
+2. **[coder-helper](https://github.com/Abhishekingle662/coder-helper)** — AI-assisted developer tools and coding reference
+3. **[adversarial_attack](https://github.com/Abhishekingle662/adversarial_attack)** — Research on adversarial ML attacks and model robustness
+4. **[NoteNest](https://github.com/Abhishekingle662/NoteNest)** — A smart, minimal note-taking app
+5. **[Pixel & Pencil Gallery](https://pixel-and-pencil-gallery.vercel.app/)** — An online gallery showcasing hyper-realistic portraits
+6. **[videoAlarm](https://github.com/Abhishekingle662/videoAlarm)** — A Flutter mobile alarm app powered by video
 
 ---
 
