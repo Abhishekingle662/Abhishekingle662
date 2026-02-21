@@ -2,12 +2,12 @@
 <!--               SCI-FI POSTER HEADER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:020024,35:090979,70:0a2a72,100:00d4ff&text=ABHISHEK%20INGLE&fontSize=58&fontColor=00ffff&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%7C%20AI%20Pioneer%20%7C%20Cosmic%20Builder&descAlignY=66&fontAlignY=38&animation=fadeIn&stroke=00bfff&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:0a0014,25:1e0035,55:4a0080,100:9b59b6&text=ABHISHEK%20INGLE&fontSize=58&fontColor=e8d5ff&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%7C%20AI%20Pioneer%20%7C%20Cosmic%20Builder&descAlignY=66&fontAlignY=38&animation=fadeIn&stroke=cc99ff&strokeWidth=2" />
 </p>
 
 <!-- Animated mission-log typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=500&lines=🌙+Building+Luna.ai+—+AI+Cosmos+Companion;📱+Shipping+videoAlarm+Flutter+App;🤖+Training+Adversarial+ML+Models;📝+Developing+NoteNest+—+Smart+Notes;🛠️+Engineering+coder-helper+DevTools;%F0%9F%9A%80+Designing+the+Future%2C+One+Commit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2800&pause=900&color=9b59b6&center=true&vCenter=true&width=500&lines=%F0%9F%8C%99+Building+Luna.ai+%E2%80%94+AI+Cosmos+Companion;%F0%9F%93%B1+Shipping+videoAlarm+Flutter+App;%F0%9F%A4%96+Training+Adversarial+ML+Models;%F0%9F%93%9D+Developing+NoteNest+%E2%80%94+Smart+Notes;%F0%9F%9B%A0%EF%B8%8F+Engineering+coder-helper+DevTools;%F0%9F%9A%80+Designing+the+Future%2C+One+Commit" alt="Typing SVG" />
 </p>
 
 ---
@@ -118,7 +118,7 @@
 
 <!-- Sci-fi poster footer wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00d4ff,60:090979,100:020024&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:9b59b6,60:1e0035,100:0a0014&section=footer&animation=fadeIn" />
 </p>
 
 <div align="center">
