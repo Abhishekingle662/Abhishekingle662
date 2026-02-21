@@ -1,9 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               SCI-FI POSTER HEADER                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:0a0014,25:1e0035,55:4a0080,100:9b59b6&text=ABHISHEK%20INGLE&fontSize=58&fontColor=e8d5ff&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%7C%20AI%20Pioneer%20%7C%20Cosmic%20Builder&descAlignY=66&fontAlignY=38&animation=fadeIn&stroke=cc99ff&strokeWidth=2" />
-</p>
 
 <!-- Animated mission-log typing effect -->
 <p align="center">
@@ -12,36 +6,16 @@
 
 ---
 
-## ✨ A Glimpse of Me
-
-<p align="center">
-  <a href="https://www.lunaapp.space/"><img src="https://img.shields.io/badge/Luna.ai-%2300d4ff.svg?style=for-the-badge&logo=moon&logoColor=white&labelColor=020024" /></a>
-  <a href="https://www.abhishekingle.us"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=firefox&logoColor=white&labelColor=101010" /></a>
-  <a href="mailto:abhishekingle662@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" /></a>
-  <a href="https://pixel-and-pencil-gallery.vercel.app/"><img src="https://img.shields.io/badge/Art%20Gallery-%239C27B0.svg?style=for-the-badge&logo=paintbrush&logoColor=white&labelColor=101010" /></a>
-</p>
-
----
-
-- 🌑 Crafting [**Luna.ai**](https://www.lunaapp.space/): an AI-powered cosmos & productivity companion (Python · Next.js)
-- 📱 Shipping [**videoAlarm**](https://github.com/Abhishekingle662/videoAlarm): a Flutter / Dart mobile alarm app powered by video
-- 🧠 Researching adversarial ML attacks — exploring model robustness & security
-- 📝 Building [**NoteNest**](https://github.com/Abhishekingle662/NoteNest): a smart, minimal note-taking app
-- 🛠️ Developing [**coder-helper**](https://github.com/Abhishekingle662/coder-helper): AI-assisted TypeScript dev-tools
-- 🌐 My digital home: [**abhishekingle.us**](https://www.abhishekingle.us)
-- 🎨 Offscreen: I sketch hyper-realistic portraits → [**Pixel & Pencil Gallery**](https://pixel-and-pencil-gallery.vercel.app/)
-- 📫 Let's connect → **abhishekingle662@gmail.com**
-
----
 
 ## The projects I've been working on
 
-1. **[Luna.ai](https://www.lunaapp.space/)** — An AI-powered cosmos & productivity companion
-2. **[coder-helper](https://github.com/Abhishekingle662/coder-helper)** — AI-assisted developer tools and coding reference
-3. **[adversarial_attack](https://github.com/Abhishekingle662/adversarial_attack)** — Research on adversarial ML attacks and model robustness
-4. **[NoteNest](https://github.com/Abhishekingle662/NoteNest)** — A smart, minimal note-taking app
-5. **[Pixel & Pencil Gallery](https://pixel-and-pencil-gallery.vercel.app/)** — An online gallery showcasing hyper-realistic portraits
-6. **[videoAlarm](https://github.com/Abhishekingle662/videoAlarm)** — A Flutter mobile alarm app powered by video
+1. **[Project-Keystone](https://www.projectkeystone.live/)** - Agent to control your phone (WIP)
+2. **[Luna.ai](https://www.lunaapp.space/)** — An AI-powered cosmos & productivity companion
+3. **[coder-helper](https://github.com/Abhishekingle662/coder-helper)** — AI-assisted developer tools and coding reference
+4. **[adversarial_attack](https://github.com/Abhishekingle662/adversarial_attack)** — Research on adversarial ML attacks and model robustness
+5. **[NoteNest](https://github.com/Abhishekingle662/NoteNest)** — A smart, minimal note-taking app
+6. **[Pixel & Pencil Gallery](https://pixel-and-pencil-gallery.vercel.app/)** — An online gallery showcasing hyper-realistic portraits
+7. **[videoAlarm](https://github.com/Abhishekingle662/videoAlarm)** — A Flutter mobile alarm app powered by video
 
 ---
 
