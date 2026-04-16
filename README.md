@@ -13,7 +13,7 @@
 ## The projects I've been working on
 
 1. **[Project-Keystone](https://www.projectkeystone.live/)** - Agent to control your phone (WIP)
-2. **[Luna.ai](https://www.lunaapp.space/)** — An AI-powered cosmos & productivity companion
+2. **[Luna.ai](https://lunaai-abhishekingle662s-projects.vercel.app/)** — An AI-powered cosmos & productivity companion
 3. **[coder-helper](https://github.com/Abhishekingle662/coder-helper)** — AI-assisted developer tools and coding reference
 4. **[adversarial_attack](https://github.com/Abhishekingle662/adversarial_attack)** — Research on adversarial ML attacks and model robustness
 5. **[NoteNest](https://github.com/Abhishekingle662/NoteNest)** — A smart, minimal note-taking app
