@@ -12,13 +12,14 @@
 
 ## The projects I've been working on
 
-1. **[Project-Keystone](https://www.projectkeystone.live/)** - Agent to control your phone (WIP)
-2. **[Luna.ai](https://lunaai-abhishekingle662s-projects.vercel.app/)** — An AI-powered cosmos & productivity companion
-3. **[coder-helper](https://github.com/Abhishekingle662/coder-helper)** — AI-assisted developer tools and coding reference
-4. **[adversarial_attack](https://github.com/Abhishekingle662/adversarial_attack)** — Research on adversarial ML attacks and model robustness
-5. **[NoteNest](https://github.com/Abhishekingle662/NoteNest)** — A smart, minimal note-taking app
-6. **[Pixel & Pencil Gallery](https://pixel-and-pencil-gallery.vercel.app/)** — An online gallery showcasing hyper-realistic portraits
-7. **[videoAlarm](https://github.com/Abhishekingle662/videoAlarm)** — A Flutter mobile alarm app powered by video
+1. **[Teleprompter](https://github.com/Abhishekingle662/teleprompter/)** - A desktop teleprompter app for public speaking and video production.
+2. **[Project-Keystone](https://www.projectkeystone.live/)** - Agent to control your phone (WIP)
+3. **[Luna.ai](https://lunaai-abhishekingle662s-projects.vercel.app/)** — An AI-powered cosmos & productivity companion
+4. **[coder-helper](https://github.com/Abhishekingle662/coder-helper)** — AI-assisted developer tools and coding reference
+5. **[adversarial_attack](https://github.com/Abhishekingle662/adversarial_attack)** — Research on adversarial ML attacks and model robustness
+6. **[NoteNest](https://github.com/Abhishekingle662/NoteNest)** — A smart, minimal note-taking app
+7. **[Pixel & Pencil Gallery](https://pixel-and-pencil-gallery.vercel.app/)** — An online gallery showcasing hyper-realistic portraits
+8. **[videoAlarm](https://github.com/Abhishekingle662/videoAlarm)** — A Flutter mobile alarm app powered by video
 
 ---
 
